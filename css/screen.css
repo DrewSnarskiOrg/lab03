@@ -201,32 +201,42 @@ html {
 
 label {
   display: block;
+  padding: 10px;
 }
 
-#content{
+#email{
+  background-color: lightgrey;
+  width: 75%;
+  
+}
 
+#submit{
+  background-color: lightgrey;
+  padding: 10px;
 
 }
-#input-email{
 
-
-}
-#input-age-verification{
-
-
-}
-#input-submit{
-
-
-}
 h1{
   background-color: lightgray;
+  padding: 30px;
 }
+
 form{
   background-color: darkgray;
+  text-align: center;
+  padding: 15px;
 }
+
 ol{
   background-color: grey;
+}
+
+input[type="checkbox"] + label {
+  display: inline;
+  
+}
+p{
+  padding: 20px;
 }
 /* ===== LAYOUT STYLES ====== */
 
