@@ -229,7 +229,7 @@ h1{
 form{
   background-color: darkgray;
   text-align: center;
-  padding: 15px;
+  padding: 30px;
 }
 
 ol{
@@ -244,6 +244,7 @@ p{
   padding: 30px;
   font-size: 1.75em;
 }
+
 /* ===== LAYOUT STYLES ====== */
 
 
