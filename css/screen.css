@@ -197,6 +197,7 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
   background-color: silver;
+  font-family: 'Raleway', sans-serif;
 }
 
 label {
@@ -222,7 +223,7 @@ label {
 h1{
   background-color: lightgray;
   padding: 30px;
-  font-size: 3.5em;
+  font-size: 3em;
 }
 
 form{
