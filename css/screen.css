@@ -207,18 +207,22 @@ label {
 #email{
   background-color: lightgrey;
   width: 75%;
-  
+}
+#input-age-verification{
+  margin: 15px;
 }
 
 #submit{
   background-color: lightgrey;
   padding: 10px;
-
+  width: 40%;
+  margin: 10px;
 }
 
 h1{
   background-color: lightgray;
   padding: 30px;
+  font-size: 3.5em;
 }
 
 form{
@@ -233,10 +237,11 @@ ol{
 
 input[type="checkbox"] + label {
   display: inline;
-  
 }
+
 p{
-  padding: 20px;
+  padding: 30px;
+  font-size: 1.75em;
 }
 /* ===== LAYOUT STYLES ====== */
 
